@@ -1,0 +1,214 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Roberto Mateu",
+	"icon": "https://micro.blog/roberto/avatar.jpg",
+	"home_page_url": "http://roberto.mateu.me/",
+	"feed_url": "http://roberto.mateu.me/feed.json",
+	"items": [
+		
+		{
+			"id": "http://roberto.micro.blog/2018/09/08/really-excited-to.html",
+	      	
+			"content_html": "<p>Really excited to start listening to <a href=\"https://www.downpour.com/creative-selection?sp=256500\">Creative Selection</a> by Ken Kocienda.</p>\n",
+			"date_published": "2018-09-08T09:23:41-06:00",
+			"url": "http://roberto.mateu.me/2018/09/08/really-excited-to.html"
+		},
+		
+		{
+			"id": "http://roberto.micro.blog/2018/08/19/for-the-love.html",
+	      	
+			"content_html": "<p><a href=\"https://youtu.be/FMpjG9HNT5Y\">For the Love of Spock</a> is a solid documentary. A cultural icon played by a good person with normal <em>good person</em> problems. The father/son aspect was unexpected, but worth noting in my parenthood’s scrapbook of emotional concerns.</p>\n",
+			"date_published": "2018-08-19T00:05:56-06:00",
+			"url": "http://roberto.mateu.me/2018/08/19/for-the-love.html"
+		},
+		
+		{
+			"id": "http://roberto.micro.blog/2018/08/12/sous-vide-cold.html",
+	      	
+			"content_html": "<p>Sous vide cold brew experiment this morning with my favorite barista helper.</p>\n\n<p><img src=\"http://roberto.mateu.me/uploads/2018/91c91a9cd8.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-12T09:27:05-06:00",
+			"url": "http://roberto.mateu.me/2018/08/12/sous-vide-cold.html"
+		},
+		
+		{
+			"id": "http://roberto.micro.blog/2018/08/04/picked-up-some.html",
+	      	
+			"content_html": "<p>Picked up some freshly roasted coffee to try later today.</p>\n\n<p><img src=\"http://roberto.mateu.me/uploads/2018/31514d7f34.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-04T12:01:16-06:00",
+			"url": "http://roberto.mateu.me/2018/08/04/picked-up-some.html"
+		},
+		
+		{
+			"id": "http://roberto.micro.blog/2018/07/01/me-maneja.html",
+	      	
+			"content_html": "<p>Me maneja.</p>\n\n<p><img src=\"http://roberto.mateu.me/uploads/2018/cd57312b91.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-30T21:12:28-06:00",
+			"url": "http://roberto.mateu.me/2018/06/30/me-maneja.html"
+		},
+		
+		{
+			"id": "http://roberto.micro.blog/2018/06/17/todos-los-das.html",
+	      	
+			"content_html": "<p>Todos los días pienso en lo bueno que es el antiguo “Roberto padre” para tratar de hacer el nuevo “Roberto hijo” tan feliz como yo.</p>\n\n<p><img src=\"http://roberto.mateu.me/uploads/2018/eb01ad66a6.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-17T16:52:50-06:00",
+			"url": "http://roberto.mateu.me/2018/06/17/todos-los-das.html"
+		},
+		
+		{
+			"id": "http://roberto.micro.blog/2018/06/17/happiest-fathers-day.html",
+	      	
+			"content_html": "<p>Happiest Father’s Day with this troupe of cousins.</p>\n\n<p><img src=\"http://roberto.mateu.me/uploads/2018/99f4f23214.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-17T14:30:24-06:00",
+			"url": "http://roberto.mateu.me/2018/06/17/happiest-fathers-day.html"
+		},
+		
+		{
+			"id": "http://roberto.micro.blog/2018/05/13/we-heart-you.html",
+	      	
+			"content_html": "<p>We heart you @anitamarcela.</p>\n\n<p><img src=\"http://roberto.mateu.me/uploads/2018/b38e95a7b4.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-05-13T13:10:31-06:00",
+			"url": "http://roberto.mateu.me/2018/05/13/we-heart-you.html"
+		},
+		
+		{
+			"id": "http://roberto.micro.blog/2018/04/15/whats-my-name.html",
+	      	
+			"title": "What's my name again?",
+			
+			"content_html": "<p>I’m struggling deciding how and where to microblog. Which is kind of stupid since I’d already setup everything on blot last year. But micro.blog makes everything so simple and easy to post (specially photos), that it’s difficult to switch back.</p>\n\n<p><em>Naming</em> also has me confused. Having the microblog at roberto.mateu.me sounds logical, but I just enjoy the 5typos.net domain for some reason.</p>\n\n<p>There’s two advantages micro.blog has over my regular blog:</p>\n<ol>\n  <li>Ease of posting</li>\n  <li>It’s a community</li>\n</ol>\n\n<p>The <em>ease of posting</em> is relative but real. I can achieve everything the native client offers with different apps and workflows – but then again, micro.blog just does it with the app. And the cross posting is extremely well thought out.</p>\n\n<p>The <em>community</em> part is more complicated. A blogpost is mostly lost in the void of RSS readers and occasional visitors to the site. But there’s no real equivalent of a community. Also, is it really the community? Or is it the sensation of being read a reply in micro.blog gives you? versus the absolute silence of the stand alone blog.</p>\n\n<p>Anyways, posting on the blog has stopped because a <em>leaving Miami</em> draft I’ve had since January. Pushing that one out tomorrow one way or another.</p>\n",
+			"date_published": "2018-04-14T20:04:34-06:00",
+			"url": "http://roberto.mateu.me/2018/04/14/whats-my-name.html"
+		},
+		
+		{
+			"id": "http://roberto.micro.blog/2018/04/14/my-dads-steak.html",
+	      	
+			"content_html": "<p>My dad’s steak adobo recipe:</p>\n\n<ul>\n  <li>Soy sauce</li>\n  <li>Worcester sauce</li>\n  <li>Mesquite</li>\n  <li>Salt</li>\n  <li>Pepper</li>\n  <li>Garlic flakes</li>\n  <li>Rosemary leaves</li>\n</ul>\n\n<p>Leave on ziplock bag overnight on fridge. And tomorrow… sous vide time!</p>\n\n<p><img src=\"http://roberto.mateu.me/uploads/2018/a25b0c458b.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-04-13T19:48:04-06:00",
+			"url": "http://roberto.mateu.me/2018/04/13/my-dads-steak.html"
+		},
+		
+		{
+			"id": "http://roberto.micro.blog/2018/04/11/im-still-bullish.html",
+	      	
+			"content_html": "<p>I’m still bullish on Soylent because of its minimalist concept: if you’re not going to have a great meal, just drink 400kcal of something cheap (and not unhealthy) and move on. Many don’t agree, so it’ll be interesting to see how it does <a href=\"https://www.theverge.com/2018/4/11/17226868/soylent-walmart-meal-substitute\">at Walmart</a>.</p>\n",
+			"date_published": "2018-04-11T17:32:39-06:00",
+			"url": "http://roberto.mateu.me/2018/04/11/im-still-bullish.html"
+		},
+		
+		{
+			"id": "http://roberto.micro.blog/2018/04/11/cataratas-la-paz.html",
+	      	
+			"title": "Cataratas La Paz",
+			
+			"content_html": "<p><a href=\"http://roberto.mateu.me/uploads/2018/643b99a472.jpg\"><img src=\"http://roberto.mateu.me/uploads/2018/643b99a472.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://roberto.mateu.me/uploads/2018/dba51f49fe.jpg\"><img src=\"http://roberto.mateu.me/uploads/2018/dba51f49fe.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://roberto.mateu.me/uploads/2018/0406f372be.jpg\"><img src=\"http://roberto.mateu.me/uploads/2018/0406f372be.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://roberto.mateu.me/uploads/2018/4f5f206a7c.jpg\"><img src=\"http://roberto.mateu.me/uploads/2018/4f5f206a7c.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://roberto.mateu.me/uploads/2018/aed316d4ac.jpg\"><img src=\"http://roberto.mateu.me/uploads/2018/aed316d4ac.jpg\" width=\"600\" height=\"449\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://roberto.mateu.me/uploads/2018/785e25bcc1.jpg\"><img src=\"http://roberto.mateu.me/uploads/2018/785e25bcc1.jpg\" width=\"600\" height=\"449\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://roberto.mateu.me/uploads/2018/0457844b2d.jpg\"><img src=\"http://roberto.mateu.me/uploads/2018/0457844b2d.jpg\" width=\"449\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://roberto.mateu.me/uploads/2018/339ca717c9.jpg\"><img src=\"http://roberto.mateu.me/uploads/2018/339ca717c9.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://roberto.mateu.me/uploads/2018/91c9e21cdc.jpg\"><img src=\"http://roberto.mateu.me/uploads/2018/91c9e21cdc.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://roberto.mateu.me/uploads/2018/1e7d74aefc.jpg\"><img src=\"http://roberto.mateu.me/uploads/2018/1e7d74aefc.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://roberto.mateu.me/uploads/2018/a196247ebb.jpg\"><img src=\"http://roberto.mateu.me/uploads/2018/a196247ebb.jpg\" width=\"0\" height=\"0\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>La Paz Waterfall Gardens: About 90 min from our house in Escazú. As with most Costa Rica touristy locations, tickets are expensive but it’s very well setup. Fun day trip with the kids, although I wouldn’t recommend eating there – not sure if it was because of a holiday, but the food was not good. Otherwise, recommended.</p>\n\n",
+			"date_published": "2018-04-11T15:19:07-06:00",
+			"url": "http://roberto.mateu.me/2018/04/11/cataratas-la-paz.html"
+		},
+		
+		{
+			"id": "http://roberto.micro.blog/2018/04/11/two-robertos-one.html",
+	      	
+			"content_html": "<p>Two Roberto’s, one map. Hilarity ensues.</p>\n\n<p><img src=\"http://roberto.mateu.me/uploads/2018/51185ba30b.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-04-11T13:57:59-06:00",
+			"url": "http://roberto.mateu.me/2018/04/11/two-robertos-one.html"
+		},
+		
+		{
+			"id": "http://roberto.micro.blog/2018/04/08/current-cold-brew.html",
+	      	
+			"content_html": "<p>Current cold brew coffee recipe:</p>\n\n<ul>\n  <li>1.5 cups of coarse dark roast</li>\n  <li>Slowly pour regular water until you fill French press (32oz) and wait 10 min.</li>\n  <li>Give it a good whirl and cover.</li>\n  <li>Wait 24 hours (not on fridge).</li>\n</ul>\n\n<p>Then press and pass through a wet coffee filter.</p>\n\n<p><img src=\"http://roberto.mateu.me/uploads/2018/b9cae7638c.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-04-08T14:58:05-06:00",
+			"url": "http://roberto.mateu.me/2018/04/08/current-cold-brew.html"
+		},
+		
+		{
+			"id": "http://roberto.micro.blog/2018/04/06/thought-i-was.html",
+	      	
+			"content_html": "<p>Thought I was ser for life with my Goruck GR1 backpack and my Waterfield Bolt Briefcase… but  they had to come up with a <a href=\"http://toolsandtoys.net/waterfield-designs-bolt-backpack/\">Bolt Backpack</a>. Looks great.</p>\n",
+			"date_published": "2018-04-05T20:29:09-06:00",
+			"url": "http://roberto.mateu.me/2018/04/05/thought-i-was.html"
+		},
+		
+		{
+			"id": "http://roberto.micro.blog/2018/04/02/fun-end-of.html",
+	      	
+			"content_html": "<p>Fun end of weekend con Aba.</p>\n\n<p><img src=\"http://roberto.mateu.me/uploads/2018/428d0166cc.jpg\" width=\"600\" height=\"600\" /><img src=\"http://roberto.mateu.me/uploads/2018/f93f7564b5.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-04-01T18:03:23-06:00",
+			"url": "http://roberto.mateu.me/2018/04/01/fun-end-of.html"
+		},
+		
+		{
+			"id": "http://roberto.micro.blog/2018/03/31/surprised-i-didnt.html",
+	      	
+			"content_html": "<p>Surprised I didn’t know about the <a href=\"https://marta.yanex.org/\">Marta File Manager for macOS</a> before. Extremely fast and clean. Love the terminal integration and the dual pane look. Leaving open for a few days.</p>\n",
+			"date_published": "2018-03-30T19:17:41-06:00",
+			"url": "http://roberto.mateu.me/2018/03/30/surprised-i-didnt.html"
+		},
+		
+		{
+			"id": "http://roberto.micro.blog/2018/03/28/183220.html",
+	      	
+			"content_html": "<p><a href=\"https://www.barnesandnoble.com/h/about-browsery\">Browsery</a>, Barnes &amp; Noble’s answer to Goodreads seems very interesting. Giving a few weeks try. (I currently track my reading on a <a href=\"https://trello.com/b/Zi6ffZyS/book-list\">Trello board</a>).</p>\n",
+			"date_published": "2018-03-28T12:32:20-06:00",
+			"url": "http://roberto.mateu.me/2018/03/28/183220.html"
+		},
+		
+		{
+			"id": "http://roberto.micro.blog/2018/03/28/password-beta-for.html",
+	      	
+			"content_html": "<p><a href=\"https://blog.agilebits.com/2018/03/28/the-1password-7-beta-for-mac-is-lit-and-you-can-be-too/\">1Password 7 Beta for Mac</a>is out. I’m traveling, so I can’t mess with my production setup. But they had me at <em>markdown in notes</em>.</p>\n",
+			"date_published": "2018-03-28T12:20:29-06:00",
+			"url": "http://roberto.mateu.me/2018/03/28/password-beta-for.html"
+		},
+		
+		{
+			"id": "http://roberto.micro.blog/2018/03/28/saw-annihilation-tonight.html",
+	      	
+			"content_html": "<p>Saw Annihilation tonight. Good movie, but not as mind blown as I expected to be – as Arrival did. Still, great to have sci-fi which doesn’t require turning off your brain’s higher functions.</p>\n",
+			"date_published": "2018-03-27T22:28:00-06:00",
+			"url": "http://roberto.mateu.me/2018/03/27/saw-annihilation-tonight.html"
+		},
+		
+		{
+			"id": "http://roberto.micro.blog/2018/03/27/no-smart-connector.html",
+	      	
+			"content_html": "<p>No smart connector on new base iPad. The keyboard is Tim Cook’s two button mouse.</p>\n",
+			"date_published": "2018-03-27T09:35:01-06:00",
+			"url": "http://roberto.mateu.me/2018/03/27/no-smart-connector.html"
+		},
+		
+		{
+			"id": "http://roberto.micro.blog/2018/03/26/costa-rica-has.html",
+	      	
+			"content_html": "<p>Costa Rica has pushed me to be an accidental coffee snob. Even an average bean gives a delicious crisp flavor.</p>\n\n<p><img src=\"http://roberto.mateu.me/uploads/2018/6d2df486e2.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-26T16:10:08-06:00",
+			"url": "http://roberto.mateu.me/2018/03/26/costa-rica-has.html"
+		},
+		
+		{
+			"id": "http://roberto.micro.blog/2018/03/25/suddenly-feel-less.html",
+	      	
+			"content_html": "<p>Suddenly feel <em>less</em> bad about taking 3 months to finish Oathbringer 📚.</p>\n\n<p><img src=\"http://roberto.mateu.me/uploads/2018/445a1667d1.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-25T13:57:32-06:00",
+			"url": "http://roberto.mateu.me/2018/03/25/suddenly-feel-less.html"
+		},
+		
+		{
+			"id": "http://roberto.micro.blog/2018/03/25/multimedia.html",
+	      	
+			"content_html": "<p>Multi-media.</p>\n\n<p><img src=\"http://roberto.mateu.me/uploads/2018/4fe1622b6d.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-25T12:50:39-06:00",
+			"url": "http://roberto.mateu.me/2018/03/25/multimedia.html"
+		},
+		
+		{
+			"id": "http://roberto.micro.blog/2018/03/23/owner-of-at.html",
+	      	
+			"content_html": "<p>Owner of at least two Roberto Mateu’s hearts. (Co-owner with Amelia @anamateu actually)</p>\n\n<p><img src=\"http://roberto.mateu.me/uploads/2018/80b530b3de.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-23T13:41:27-06:00",
+			"url": "http://roberto.mateu.me/2018/03/23/owner-of-at.html"
+		}
+		
+	]
+}
