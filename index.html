@@ -1,38 +1,42 @@
 ---
 layout: default
-title: Home
+regenerate: true
 ---
+<header class="masthead">
+  <h1 class="masthead-title">
+    <a href="{{ site.baseurl }}/">{{ site.name }}</a>
+  </h1>
+  <nav class="masthead-nav">
+	{% assign sorted_pages = site.pages | sort: "order" %}
+	{% for page in sorted_pages %}
+		{% if page.title and page.navigation %}
+			<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+		{% endif %}
+	{% endfor %}
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
+	<a class="page-link" href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a>
+  </nav>
+</header>
+<div class="content list h-feed">
+{% if site.posts.size == 0 %}
+  <h2>No post found</h2>
+{% else %}
+{% for post in site.posts limit:25 %}
+  <div class="list-item h-entry">
+	{% if post.microblog == false %}
+		<h1 class="home-title">{{ post.title }}</h1>
+	{% endif %}
+    <div class="content post e-content">
+      {{ post.content }}
+    </div>
+    <div class="list-post-date">
+      <a href="{{ site.baseurl }}{{ post.url }}" class="u-url"><time class="dt-published" datetime="{{ post.date }}">{{ post.date | date_to_string }}</time></a>
+    </div>
   </div>
-  {% endfor %}
+{% endfor %}
+{% endif %}
 </div>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="/">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
-
+<footer class="site-footer">
+	<p class="text">{{ site.description }}</p>
+</footer>
