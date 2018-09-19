@@ -1,8 +1,56 @@
-excerpt_separator: ""
-pygments: true
-markdown: kramdown
-url: http://rmateu.github.io
-title: This is a test
-tagline: A log of everyday life
-description: My awesome new site
-paginate: 5
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
+
+# - markdown: kramdown
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+
+title: "Roberto Mateu"
+tagline: ""
+description: "Follow <a href=\"https://micro.blog/roberto\">@roberto on Micro.blog</a>."
+credits: "Follow <a href=\"https://micro.blog/roberto\">@roberto on Micro.blog</a>."
+baseurl: ""
+url: "http://roberto.mateu.me"
+markdown: "kramdown"
+username: "roberto"
+microblog_user: "roberto"
+permalink: "/:year/:month/:day/:title.html"
+relative_permalinks: false
+author: "Roberto Mateu"
+name: "Roberto Mateu"
+gravatar_hash: "02bd7fb3aac7ecb33d1210da5297536c"
+avatar: "https://micro.blog/roberto/avatar.jpg"
+full_name: "Roberto Mateu"
+bio: ""
+twitter_username: "rmateu"
+github_username: "rmateu"
+instagram_username: "rmateu"
+paginate: 20
+paginate_path: "/page/:num/"
+timezone: "US/Mountain"
+site_id: "83"
+gems: ["jekyll-paginate"]
+itunes_description: "A geek from Venezuela, now in Costa Rica. "
+itunes_category: "Society & Culture"
+itunes_subcategory: "Personal Journals"
+itunes_author: "Roberto Mateu"
+itunes_email: ""
+podcast: false
