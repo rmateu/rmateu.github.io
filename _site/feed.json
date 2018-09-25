@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://roberto.micro.blog/2018/09/25/cleaning-up-my.html",
+	      	
+			"content_html": "<p>Cleaning up my 4 year old account on Ana’s MacBook Pro. Still takes all of my willpower to click delete on OmniDiskSweeper for stuff that should be either backed up twice over, or better forgotten.</p>\n",
+			"date_published": "2018-09-24T21:47:35-06:00",
+			"url": "http://roberto.mateu.me/2018/09/24/cleaning-up-my.html"
+		},
+		
+		{
+			"id": "http://roberto.micro.blog/2018/09/23/how-things-change.html",
+	      	
+			"content_html": "<p>How things change, I had completely forgotten <a href=\"https://www.apple.com/lae/macos/mojave/\">macOS Mojave</a> come out tomorrow. I remember loosing sleep over Mac OS X 10.4 Tiger release.</p>\n",
+			"date_published": "2018-09-23T15:54:22-06:00",
+			"url": "http://roberto.mateu.me/2018/09/23/how-things-change.html"
+		},
+		
+		{
 			"id": "http://roberto.micro.blog/2018/09/23/not-the-first.html",
 	      	
 			"content_html": "<p>Not the first time Seth Godin inspires me, but looking as his <a href=\"https://seths.blog/2018/09/the-struggle-is-real/\">short posts</a>, I’m going to challenge myself to publish at least 50 words daily for the rest of the year.</p>\n",
@@ -192,22 +208,6 @@
 			"content_html": "<p>No smart connector on new base iPad. The keyboard is Tim Cook’s two button mouse.</p>\n",
 			"date_published": "2018-03-27T09:35:01-06:00",
 			"url": "http://roberto.mateu.me/2018/03/27/no-smart-connector.html"
-		},
-		
-		{
-			"id": "http://roberto.micro.blog/2018/03/26/costa-rica-has.html",
-	      	
-			"content_html": "<p>Costa Rica has pushed me to be an accidental coffee snob. Even an average bean gives a delicious crisp flavor.</p>\n\n<p><img src=\"http://roberto.mateu.me/uploads/2018/6d2df486e2.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-26T16:10:08-06:00",
-			"url": "http://roberto.mateu.me/2018/03/26/costa-rica-has.html"
-		},
-		
-		{
-			"id": "http://roberto.micro.blog/2018/03/25/suddenly-feel-less.html",
-	      	
-			"content_html": "<p>Suddenly feel <em>less</em> bad about taking 3 months to finish Oathbringer 📚.</p>\n\n<p><img src=\"http://roberto.mateu.me/uploads/2018/445a1667d1.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-25T13:57:32-06:00",
-			"url": "http://roberto.mateu.me/2018/03/25/suddenly-feel-less.html"
 		}
 		
 	]
