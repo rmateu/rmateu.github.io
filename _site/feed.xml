@@ -4,8 +4,26 @@
     <title>Roberto Mateu</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/roberto&quot;&gt;@roberto on Micro.blog&lt;/a&gt;.</description>
     <link>http://roberto.mateu.me/</link>
-    <pubDate>Sun, 23 Sep 2018 12:13:48 -0600</pubDate>
-    <lastBuildDate>Sun, 23 Sep 2018 12:13:48 -0600</lastBuildDate>
+    <pubDate>Mon, 24 Sep 2018 21:48:48 -0600</pubDate>
+    <lastBuildDate>Mon, 24 Sep 2018 21:48:48 -0600</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Cleaning up my 4 year old account on Ana’s MacBook Pro. Still takes all of my willpower to click delete on OmniDiskSweeper for stuff that should be either backed up twice over, or better forgotten.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 24 Sep 2018 21:47:35 -0600</pubDate>
+        <link>http://roberto.mateu.me/2018/09/24/cleaning-up-my.html</link>
+        <guid isPermaLink="true">http://roberto.micro.blog/2018/09/25/cleaning-up-my.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;How things change, I had completely forgotten &lt;a href=&quot;https://www.apple.com/lae/macos/mojave/&quot;&gt;macOS Mojave&lt;/a&gt; come out tomorrow. I remember loosing sleep over Mac OS X 10.4 Tiger release.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 23 Sep 2018 15:54:22 -0600</pubDate>
+        <link>http://roberto.mateu.me/2018/09/23/how-things-change.html</link>
+        <guid isPermaLink="true">http://roberto.micro.blog/2018/09/23/how-things-change.html</guid>
+      </item>
     
       <item>
       	
@@ -533,24 +551,6 @@
         <pubDate>Tue, 06 Mar 2018 16:06:21 -0700</pubDate>
         <link>http://roberto.mateu.me/2018/03/06/if-i-didnt.html</link>
         <guid isPermaLink="true">http://roberto.micro.blog/2018/03/06/if-i-didnt.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;The Angle is a &lt;a href=&quot;http://www.anglerazor.com/&quot;&gt;nice looking straight razor&lt;/a&gt;. However, not sure I’d move away from my safety razor.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 06 Mar 2018 09:36:06 -0700</pubDate>
-        <link>http://roberto.mateu.me/2018/03/06/the-angle-is.html</link>
-        <guid isPermaLink="true">http://roberto.micro.blog/2018/03/06/the-angle-is.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Had to rollback a release in production. Bummed after a weekend of testing. You can have your development environments all figured out… until you don’t.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 05 Mar 2018 23:52:04 -0700</pubDate>
-        <link>http://roberto.mateu.me/2018/03/05/had-to-rollback.html</link>
-        <guid isPermaLink="true">http://roberto.micro.blog/2018/03/06/had-to-rollback.html</guid>
       </item>
     
   </channel>
