@@ -7,6 +7,16 @@
 	"items": [
 		
 		{
+			"id": "http://roberto.micro.blog/2018/10/14/we-went-painting.html",
+	      	
+			"title": "We Went Painting Today",
+			
+			"content_text": "[gallery ids=”,,,,” type=”rectangular”] Robie painted a plane with Ana, and...",
+			"date_published": "2018-10-13T22:23:53-06:00",
+			"url": "http://roberto.mateu.me/2018/10/13/we-went-painting.html"
+		},
+		
+		{
 			"id": "http://roberto.micro.blog/2018/09/30/another-gift-coffee.html",
 	      	
 			"content_text": "Another gift coffee. Very chocolatey. Trying to see if I...",
