@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://roberto.micro.blog/2018/10/21/after-lunch-cappuccino.html",
+	      	
+			"content_html": "<p>After lunch cappuccino with the <a href=\"https://fellowproducts.com/prismo/\">Prismo</a> AeroPress thingy. It was made out of need – not play – and I surprised myself how well it turned out.</p>\n\n<p><img src=\"http://roberto.mateu.me/uploads/2018/356e83a82b.jpg\" width=\"600\" height=\"599\" /></p>\n",
+			"date_published": "2018-10-20T20:49:54-06:00",
+			"url": "http://roberto.mateu.me/2018/10/20/after-lunch-cappuccino.html"
+		},
+		
+		{
 			"id": "http://roberto.micro.blog/2018/10/15/we-made-a.html",
 	      	
 			"content_html": "<p>We made a killer entrecôte today.</p>\n\n<p><img src=\"http://roberto.mateu.me/uploads/2018/6a50b9e89c.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -202,14 +210,6 @@
 			"content_html": "<p>Current cold brew coffee recipe:</p>\n\n<ul>\n  <li>1.5 cups of coarse dark roast</li>\n  <li>Slowly pour regular water until you fill French press (32oz) and wait 10 min.</li>\n  <li>Give it a good whirl and cover.</li>\n  <li>Wait 24 hours (not on fridge).</li>\n</ul>\n\n<p>Then press and pass through a wet coffee filter.</p>\n\n<p><img src=\"http://roberto.mateu.me/uploads/2018/b9cae7638c.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-04-08T14:58:05-06:00",
 			"url": "http://roberto.mateu.me/2018/04/08/current-cold-brew.html"
-		},
-		
-		{
-			"id": "http://roberto.micro.blog/2018/04/06/thought-i-was.html",
-	      	
-			"content_html": "<p>Thought I was ser for life with my Goruck GR1 backpack and my Waterfield Bolt Briefcase… but  they had to come up with a <a href=\"http://toolsandtoys.net/waterfield-designs-bolt-backpack/\">Bolt Backpack</a>. Looks great.</p>\n",
-			"date_published": "2018-04-05T20:29:09-06:00",
-			"url": "http://roberto.mateu.me/2018/04/05/thought-i-was.html"
 		}
 		
 	]
