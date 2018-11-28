@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-20 21:11:10 -0600
 guid: http://roberto.micro.blog/2018/02/21/enjoyed-this-scientifically.html
 ---
