@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-25 22:29:43 -0600
 guid: http://roberto.micro.blog/2018/02/26/i-dont-regret.html
 ---
