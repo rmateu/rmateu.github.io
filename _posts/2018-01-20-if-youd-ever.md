@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://roberto.mateu.me/uploads/2018/daacacaa99.jpg
 date: 2018-01-20 11:09:06 -0600
 guid: http://roberto.micro.blog/2018/01/20/if-youd-ever.html
 ---
