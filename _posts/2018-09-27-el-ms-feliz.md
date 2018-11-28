@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://roberto.mateu.me/uploads/2018/3198b3e8f2.jpg
 date: 2018-09-26 18:53:59 -0600
 guid: http://roberto.micro.blog/2018/09/27/el-ms-feliz.html
 ---
