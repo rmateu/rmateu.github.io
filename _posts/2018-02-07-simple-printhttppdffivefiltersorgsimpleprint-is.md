@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-06 21:04:43 -0600
 guid: http://roberto.micro.blog/2018/02/07/simple-printhttppdffivefiltersorgsimpleprint-is.html
 ---
