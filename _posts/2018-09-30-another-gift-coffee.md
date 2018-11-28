@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://roberto.mateu.me/uploads/2018/d49abd2b04.jpg
 date: 2018-09-29 19:56:25 -0600
 guid: http://roberto.micro.blog/2018/09/30/another-gift-coffee.html
 ---
