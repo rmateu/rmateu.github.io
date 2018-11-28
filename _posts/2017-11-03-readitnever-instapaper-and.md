@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://roberto.micro.blog/uploads/2017/7415f83fae.jpg
 date: 2017-11-02 19:00:53 -0600
 guid: http://roberto.micro.blog/2017/11/03/readitnever-instapaper-and.html
 ---
