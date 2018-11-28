@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://roberto.mateu.me/uploads/2018/b9cae7638c.jpg
 date: 2018-04-08 14:58:05 -0600
 guid: http://roberto.micro.blog/2018/04/08/current-cold-brew.html
 ---
