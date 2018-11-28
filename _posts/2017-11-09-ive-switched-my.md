@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-11-09 10:47:56 -0600
 guid: http://roberto.micro.blog/2017/11/09/ive-switched-my.html
 ---
