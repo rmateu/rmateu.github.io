@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://roberto.mateu.me/uploads/2018/356e83a82b.jpg
 date: 2018-10-20 20:49:54 -0600
 guid: http://roberto.micro.blog/2018/10/21/after-lunch-cappuccino.html
 ---
