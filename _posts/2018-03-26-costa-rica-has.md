@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://roberto.mateu.me/uploads/2018/6d2df486e2.jpg
 date: 2018-03-26 16:10:08 -0600
 guid: http://roberto.micro.blog/2018/03/26/costa-rica-has.html
 ---
