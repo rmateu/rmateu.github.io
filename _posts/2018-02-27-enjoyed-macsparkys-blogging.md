@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-27 14:16:52 -0600
 guid: http://roberto.micro.blog/2018/02/27/enjoyed-macsparkys-blogging.html
 ---
