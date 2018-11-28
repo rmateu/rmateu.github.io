@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-14 20:40:35 -0600
 guid: http://roberto.micro.blog/2018/03/15/jason-fried-makes.html
 ---
