@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-11-07 15:21:58 -0600
 guid: http://roberto.micro.blog/2017/11/07/been-trying-to.html
 ---
