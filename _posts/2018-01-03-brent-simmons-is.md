@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-03 09:07:36 -0600
 guid: http://roberto.micro.blog/2018/01/03/brent-simmons-is.html
 ---
