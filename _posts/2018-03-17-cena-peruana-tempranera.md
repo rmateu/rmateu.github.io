@@ -3,6 +3,7 @@ layout: post
 title: "Cena Peruana Tempranera"
 microblog: false
 audio: 
+photo: http://roberto.mateu.me/uploads/2018/c357ce72bc.jpg
 date: 2018-03-17 17:43:33 -0600
 guid: http://roberto.micro.blog/2018/03/17/cena-peruana-tempranera.html
 ---
