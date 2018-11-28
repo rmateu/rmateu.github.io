@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-28 12:20:29 -0600
 guid: http://roberto.micro.blog/2018/03/28/password-beta-for.html
 ---
