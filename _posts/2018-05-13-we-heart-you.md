@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://roberto.mateu.me/uploads/2018/b38e95a7b4.jpg
 date: 2018-05-13 13:10:31 -0600
 guid: http://roberto.micro.blog/2018/05/13/we-heart-you.html
 ---
