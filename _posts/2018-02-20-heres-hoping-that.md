@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-20 15:01:48 -0600
 guid: http://roberto.micro.blog/2018/02/20/heres-hoping-that.html
 ---
