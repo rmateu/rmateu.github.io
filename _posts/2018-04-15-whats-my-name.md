@@ -3,6 +3,7 @@ layout: post
 title: "What's my name again?"
 microblog: false
 audio: 
+photo: 
 date: 2018-04-14 20:04:34 -0600
 guid: http://roberto.micro.blog/2018/04/15/whats-my-name.html
 ---
