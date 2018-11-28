@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-07-14 07:32:34 -0600
 guid: http://roberto.micro.blog/2017/07/14/flying-from-sjo.html
 ---
