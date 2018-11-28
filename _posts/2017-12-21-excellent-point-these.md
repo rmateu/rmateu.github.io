@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-21 09:41:57 -0600
 guid: http://roberto.micro.blog/2017/12/21/excellent-point-these.html
 ---
