@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-11-03 16:23:43 -0600
 guid: http://roberto.micro.blog/2017/11/03/no-iphone-x.html
 ---
