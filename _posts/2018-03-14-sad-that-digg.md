@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-14 15:29:51 -0600
 guid: http://roberto.micro.blog/2018/03/14/sad-that-digg.html
 ---
