@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://roberto.mateu.me/uploads/2018/023a0ac6fb.jpg
 date: 2018-02-22 20:19:21 -0600
 guid: http://roberto.micro.blog/2018/02/23/well-movie-night.html
 ---
