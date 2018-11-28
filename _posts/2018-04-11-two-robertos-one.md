@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://roberto.mateu.me/uploads/2018/51185ba30b.jpg
 date: 2018-04-11 13:57:59 -0600
 guid: http://roberto.micro.blog/2018/04/11/two-robertos-one.html
 ---
