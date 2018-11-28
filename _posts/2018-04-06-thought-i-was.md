@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-05 20:29:09 -0600
 guid: http://roberto.micro.blog/2018/04/06/thought-i-was.html
 ---
