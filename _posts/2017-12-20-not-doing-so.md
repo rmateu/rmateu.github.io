@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://roberto.mateu.me/uploads/2017/c2ff358150.jpg
 date: 2017-12-20 06:48:52 -0600
 guid: http://roberto.micro.blog/2017/12/20/not-doing-so.html
 ---
