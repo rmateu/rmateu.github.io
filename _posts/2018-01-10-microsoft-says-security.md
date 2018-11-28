@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-09 21:24:12 -0600
 guid: http://roberto.micro.blog/2018/01/10/microsoft-says-security.html
 ---
