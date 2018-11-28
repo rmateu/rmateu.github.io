@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://roberto.mateu.me/uploads/2018/453ee9553b.jpg
 date: 2018-03-08 09:38:05 -0600
 guid: http://roberto.micro.blog/2018/03/08/youtube-tv-doesnt.html
 ---
