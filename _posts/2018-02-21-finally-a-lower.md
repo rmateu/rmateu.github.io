@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-21 12:07:40 -0600
 guid: http://roberto.micro.blog/2018/02/21/finally-a-lower.html
 ---
