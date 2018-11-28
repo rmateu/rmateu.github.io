@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-17 19:58:44 -0600
 guid: http://roberto.micro.blog/2018/03/18/going-to-give.html
 ---
