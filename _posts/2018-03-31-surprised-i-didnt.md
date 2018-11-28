@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-30 19:17:41 -0600
 guid: http://roberto.micro.blog/2018/03/31/surprised-i-didnt.html
 ---
