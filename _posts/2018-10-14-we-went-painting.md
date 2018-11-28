@@ -3,6 +3,7 @@ layout: post
 title: "We Went Painting "
 microblog: false
 audio: 
+photo: http://roberto.mateu.me/uploads/2018/5bce07dbd9.jpg
 date: 2018-10-13 23:58:05 -0600
 guid: http://roberto.micro.blog/2018/10/14/we-went-painting.html
 ---
