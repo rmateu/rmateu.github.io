@@ -3,6 +3,7 @@ layout: post
 title: "How to access and edit your notes from Control Center in iOS 11"
 microblog: false
 audio: 
+photo: 
 date: 2017-11-02 09:29:57 -0600
 guid: http://roberto.micro.blog/2017/11/02/how-to-access.html
 ---
