@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://roberto.mateu.me/uploads/2018/7f4970b686.jpg
 date: 2018-09-28 20:39:52 -0600
 guid: http://roberto.micro.blog/2018/09/29/forgot-to-post.html
 ---
