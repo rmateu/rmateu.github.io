@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-11-08 08:51:28 -0600
 guid: http://roberto.micro.blog/2017/11/08/this-open-letter.html
 ---
