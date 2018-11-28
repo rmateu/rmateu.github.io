@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-06 00:52:04 -0600
 guid: http://roberto.micro.blog/2018/03/06/had-to-rollback.html
 ---
