@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-25 22:18:20 -0600
 guid: http://roberto.micro.blog/2018/01/26/pencilsnap-for-apple.html
 ---
