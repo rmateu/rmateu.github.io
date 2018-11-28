@@ -3,6 +3,7 @@ layout: post
 title: "Bettina's First Beach Day "
 microblog: false
 audio: 
+photo: http://roberto.mateu.me/uploads/2018/ef5960c96d.jpg
 date: 2018-03-07 10:01:44 -0600
 guid: http://roberto.micro.blog/2018/03/07/bettinas-first-beach.html
 ---
