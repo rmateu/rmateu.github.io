@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-22 22:00:05 -0600
 guid: http://roberto.micro.blog/2018/02/23/apple-tv-hard.html
 ---
