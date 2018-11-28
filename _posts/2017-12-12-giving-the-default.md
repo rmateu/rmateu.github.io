@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-12-12 09:31:50 -0600
 guid: http://roberto.micro.blog/2017/12/12/giving-the-default.html
 ---
