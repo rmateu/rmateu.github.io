@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-14 15:32:14 -0600
 guid: http://roberto.micro.blog/2018/03/14/however-from-the.html
 ---
