@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-11-30 21:26:51 -0600
 guid: http://roberto.micro.blog/2017/12/01/gemini-pda-years.html
 ---
