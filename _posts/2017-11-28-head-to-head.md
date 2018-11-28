@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://roberto.mateu.me/uploads/2017/c53da2dd02.jpg
 date: 2017-11-27 19:35:14 -0600
 guid: http://roberto.micro.blog/2017/11/28/head-to-head.html
 ---
