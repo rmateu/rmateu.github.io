@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-23 12:11:00 -0600
 guid: http://roberto.micro.blog/2018/09/23/not-the-first.html
 ---
