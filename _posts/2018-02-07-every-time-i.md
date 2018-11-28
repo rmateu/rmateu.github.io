@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-07 16:56:57 -0600
 guid: http://roberto.micro.blog/2018/02/07/every-time-i.html
 ---
