@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-09 10:00:08 -0600
 guid: http://roberto.micro.blog/2018/03/09/wish-tunnelbear-team.html
 ---
