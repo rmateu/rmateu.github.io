@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-26 10:33:24 -0600
 guid: http://roberto.micro.blog/2018/02/26/todays-morning-pomodoros.html
 ---
