@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-03 01:08:30 -0600
 guid: http://roberto.micro.blog/2018/02/03/blade-runner-wow.html
 ---
