@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-23 21:07:28 -0600
 guid: http://roberto.micro.blog/2018/01/24/things-i-learned.html
 ---
