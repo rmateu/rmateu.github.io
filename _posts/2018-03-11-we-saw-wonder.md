@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-10 21:38:07 -0600
 guid: http://roberto.micro.blog/2018/03/11/we-saw-wonder.html
 ---
