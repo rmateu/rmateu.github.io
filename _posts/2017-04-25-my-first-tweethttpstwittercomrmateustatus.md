@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-04-25 10:43:12 -0600
 guid: http://roberto.micro.blog/2017/04/25/my-first-tweethttpstwittercomrmateustatus.html
 ---
