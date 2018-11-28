@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-08 11:54:58 -0600
 guid: http://roberto.micro.blog/2018/02/08/the-idea-of.html
 ---
