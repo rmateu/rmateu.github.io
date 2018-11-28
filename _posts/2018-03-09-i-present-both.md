@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://roberto.mateu.me/uploads/2018/b76785b214.jpg
 date: 2018-03-08 22:55:57 -0600
 guid: http://roberto.micro.blog/2018/03/09/i-present-both.html
 ---
