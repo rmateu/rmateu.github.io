@@ -3,6 +3,7 @@ layout: post
 title: "Cataratas La Paz"
 microblog: false
 audio: 
+photo: http://roberto.mateu.me/uploads/2018/a196247ebb.jpg
 date: 2018-04-11 15:19:07 -0600
 guid: http://roberto.micro.blog/2018/04/11/cataratas-la-paz.html
 ---
