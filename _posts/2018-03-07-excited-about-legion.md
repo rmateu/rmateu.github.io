@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-03-06 21:45:41 -0600
 guid: http://roberto.micro.blog/2018/03/07/excited-about-legion.html
 ---
