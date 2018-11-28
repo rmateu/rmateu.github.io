@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-11-09 22:01:22 -0600
 guid: http://roberto.micro.blog/2017/11/10/polyfactlink-the-best.html
 ---
