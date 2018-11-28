@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-11-07 22:17:30 -0600
 guid: http://roberto.micro.blog/2017/11/08/excited-for-firefox.html
 ---
