@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-01-25 21:53:38 -0600
 guid: http://roberto.micro.blog/2018/01/26/walmart-and-rakuten.html
 ---
