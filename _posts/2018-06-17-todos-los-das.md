@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://roberto.mateu.me/uploads/2018/eb01ad66a6.jpg
 date: 2018-06-17 16:52:50 -0600
 guid: http://roberto.micro.blog/2018/06/17/todos-los-das.html
 ---
