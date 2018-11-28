@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://roberto.mateu.me/uploads/2018/300066d5ed.jpg
 date: 2017-05-13 15:52:02 -0600
 guid: http://roberto.micro.blog/2017/05/13/maana-de-monos.html
 ---
