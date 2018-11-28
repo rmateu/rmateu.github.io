@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-08 16:23:23 -0600
 guid: http://roberto.micro.blog/2018/02/08/scribds-new-unlimited.html
 ---
