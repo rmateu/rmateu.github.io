@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-11-04 21:55:37 -0600
 guid: http://roberto.micro.blog/2017/11/05/giving-up-on.html
 ---
