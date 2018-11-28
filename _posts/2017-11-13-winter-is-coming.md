@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://roberto.mateu.me/uploads/2017/b81c521df7.jpg
 date: 2017-11-13 11:51:57 -0600
 guid: http://roberto.micro.blog/2017/11/13/winter-is-coming.html
 ---
