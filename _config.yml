@@ -45,7 +45,7 @@ github_username: "rmateu"
 instagram_username: "rmateu"
 paginate: 20
 paginate_path: "/page/:num/"
-timezone: "US/Mountain"
+timezone: "US/Indiana-Starke"
 site_id: "83"
 gems: ["jekyll-paginate"]
 itunes_description: "A geek from Venezuela, now in Costa Rica. "
