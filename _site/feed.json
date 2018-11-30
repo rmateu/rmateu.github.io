@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://roberto.micro.blog/2018/11/30/id-rather-buy.html",
+	      	
+			"content_html": "<p>I’d rather buy the digital download version of Firefly (again) than watch it <a href=\"https://techcrunch.com/2018/11/30/watch-firefly-watch-buffy-watch-angel/\">free on Facebook</a>.</p>\n",
+			"date_published": "2018-11-30T15:23:14-06:00",
+			"url": "http://roberto.mateu.me/2018/11/30/id-rather-buy.html"
+		},
+		
+		{
 			"id": "http://roberto.micro.blog/2018/11/29/zcash-zec-is.html",
 	      	
 			"content_html": "<p>Zcash (ZEC) is launching on <a href=\"https://blog.coinbase.com/zcash-zec-is-launching-on-coinbase-pro-b925309ce09c\">Coinbase Pro</a>. I have a special appreciation for Zcash as a project – it seems to have the <em>sanest</em> mind in the popular crypto world.</p>\n",
@@ -200,14 +208,6 @@
 			"content_html": "<p>My dad’s steak adobo recipe:</p>\n\n<ul>\n  <li>Soy sauce</li>\n  <li>Worcester sauce</li>\n  <li>Mesquite</li>\n  <li>Salt</li>\n  <li>Pepper</li>\n  <li>Garlic flakes</li>\n  <li>Rosemary leaves</li>\n</ul>\n\n<p>Leave on ziplock bag overnight on fridge. And tomorrow… sous vide time!</p>\n\n<p><img src=\"http://roberto.mateu.me/uploads/2018/a25b0c458b.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2018-04-13T20:48:04-05:00",
 			"url": "http://roberto.mateu.me/2018/04/13/my-dads-steak.html"
-		},
-		
-		{
-			"id": "http://roberto.micro.blog/2018/04/11/im-still-bullish.html",
-	      	
-			"content_html": "<p>I’m still bullish on Soylent because of its minimalist concept: if you’re not going to have a great meal, just drink 400kcal of something cheap (and not unhealthy) and move on. Many don’t agree, so it’ll be interesting to see how it does <a href=\"https://www.theverge.com/2018/4/11/17226868/soylent-walmart-meal-substitute\">at Walmart</a>.</p>\n",
-			"date_published": "2018-04-11T18:32:39-05:00",
-			"url": "http://roberto.mateu.me/2018/04/11/im-still-bullish.html"
 		}
 		
 	]
