@@ -4,8 +4,17 @@
     <title>Roberto Mateu</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/roberto&quot;&gt;@roberto on Micro.blog&lt;/a&gt;.</description>
     <link>http://roberto.mateu.me/</link>
-    <pubDate>Wed, 05 Dec 2018 10:04:58 -0600</pubDate>
-    <lastBuildDate>Wed, 05 Dec 2018 10:04:58 -0600</lastBuildDate>
+    <pubDate>Thu, 06 Dec 2018 11:26:46 -0600</pubDate>
+    <lastBuildDate>Thu, 06 Dec 2018 11:26:46 -0600</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Microsoft confirms &lt;a href=&quot;https://blogs.windows.com/windowsexperience/2018/12/06/microsoft-edge-making-the-web-better-through-more-open-source-collaboration/&quot;&gt;Edge is moving to Chromium&lt;/a&gt; sometime next year. I understand the reasoning and business case, but the consolidation of browser engines is not great for the web.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 06 Dec 2018 11:24:55 -0600</pubDate>
+        <link>http://roberto.mateu.me/2018/12/06/microsoft-confirms-edge.html</link>
+        <guid isPermaLink="true">http://roberto.micro.blog/2018/12/06/microsoft-confirms-edge.html</guid>
+      </item>
     
       <item>
       	
@@ -547,15 +556,6 @@
         <pubDate>Wed, 14 Mar 2018 21:40:35 -0500</pubDate>
         <link>http://roberto.mateu.me/2018/03/14/jason-fried-makes.html</link>
         <guid isPermaLink="true">http://roberto.micro.blog/2018/03/15/jason-fried-makes.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;However, from the HNews thread on digg reader, &lt;a href=&quot;https://hackernoon.com/announcing-winds-2-0-an-electron-app-with-support-for-rss-podcasts-d13dbe812477&quot;&gt;Winds 2.0 app&lt;/a&gt; looks interesting (although &lt;em&gt;electron&lt;/em&gt;… sigh).&lt;/p&gt;
-</description>
-        <pubDate>Wed, 14 Mar 2018 16:32:14 -0500</pubDate>
-        <link>http://roberto.mateu.me/2018/03/14/however-from-the.html</link>
-        <guid isPermaLink="true">http://roberto.micro.blog/2018/03/14/however-from-the.html</guid>
       </item>
     
   </channel>
