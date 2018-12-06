@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://roberto.micro.blog/2018/12/06/microsoft-confirms-edge.html",
+	      	
+			"content_text": "Microsoft confirms Edge is moving to Chromium sometime next year....",
+			"date_published": "2018-12-06T11:24:55-06:00",
+			"url": "http://roberto.mateu.me/2018/12/06/microsoft-confirms-edge.html"
+		},
+		
+		{
 			"id": "http://roberto.micro.blog/2018/12/05/the-verges-better.html",
 	      	
 			"content_text": "The Verge’s Better Worlds: a science fiction project about hope...",
